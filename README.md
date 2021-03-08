@@ -14,6 +14,6 @@ git push <git_directory>
 When you want to update:
 git add <file> || git add .
 
-git commmit -m "blabla"
+git commmit -m "adam"
 
 git push
